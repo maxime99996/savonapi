@@ -1,0 +1,5 @@
+.main-content {
+  margin-top: var(--header-height);
+  padding-top: 1rem;
+  margin-bottom: 50px;
+}
